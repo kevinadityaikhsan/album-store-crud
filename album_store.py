@@ -467,23 +467,3 @@ def main(): # Main Menu
 
 if __name__ == "__main__":
     main()
-
-"""
-Create 2x
-- add_album()
-- add_item()
-
-Read 2x
-- show_album()?
-- view_cart()
-
-Update 3x
-- edit_album_data()
-- add_item()
-- edit_cart_item()
-
-Delete 2x
-- delete_album()
-- cancel_transaction()?
-
-"""
